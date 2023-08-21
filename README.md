@@ -5,7 +5,7 @@ v.subramanian@iitg.ac.in - Subramanian V<br>
 r.sri@iitg.ac.in - Sri Harsha R<br>
 d.neha@iitg.ac.in - Neha Dhuttargaon
 
-## Assignment 1 : Network Protocol Analysis Using Wireshark
+## Assignment 2 : Network Protocol Analysis Using Wireshark
 
 Wireshark is a free and open-source packet sniffer and network protocol analyser tool. It helps to capture
 network packets and understand the structure of different networking protocols.
